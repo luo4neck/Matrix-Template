@@ -1,3 +1,5 @@
+This is a C++ homework, but github automaticlly set the language of this homework as C.
+
 Each of the 3 tasks include a make file, a main.cc file, a header file. 
 
 Functions like matrix add, mult, trace, determinat, number of row, number of column, all elements multiply, equal/not-equal check, write to file, reading from file, are implemented inside. 
